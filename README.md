@@ -16,7 +16,10 @@
 <h2> 🤳 Connect with me:</h2>
 [<img align="left" alt="KendrickBynum | LinkedIn" width="22px" src="www.linkedin.com/in/kendrick-bynum-299a11250" />][linkedin]
 
-[linkedin]: https://www.linkedin.com/in/kendrick-bynum-299a11250/
+[twitter]: https://twitter.com/joshmadakor
+[youtube]: https://www.youtube.com/c/joshmadakor
+[instagram]: https://www.instagram.com/joshmadakor/
+[linkedin]: https://linkedin.com/in/joshmadakor
 
 <!--
 
