@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Full-Stack Web App</b>
+  - [WhatColor ColorBlind Assitence App](https://github.com/What-Color-SPU/What-Color)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Web Crawler](https://github.com/csc3430-winter2025/graph-a-computer-science-team) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
