@@ -4,6 +4,8 @@
 
 - <b>Full-Stack Web App</b>
   - [WhatColor ColorBlind Assitence App](https://github.com/What-Color-SPU/What-Color)
+  - Implemented AI to help users understand if colors are compatible or not
+  - Created user accounts so users can create an account or sign into thier account
 - <b>Python-Based Web Crawler (Python)</b>
   - [Web Crawler](https://github.com/csc3430-winter2025/graph-a-computer-science-team) 
 - <b>Rust Systems Programming</b>
