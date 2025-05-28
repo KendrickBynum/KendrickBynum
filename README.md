@@ -14,9 +14,9 @@
   - [Simple Encryptions](https://github.com/KendrickBynum/SimpleEncryptions)
 
 <h2> 🤳 Connect with me:</h2>
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="www.linkedin.com/in/kendrick-bynum-299a11250" />][linkedin]
+[<img align="left" alt="KendrickBynum | LinkedIn" width="22px" src="www.linkedin.com/in/kendrick-bynum-299a11250" />][linkedin]
 
-[linkedin]: (https://www.linkedin.com/in/kendrick-bynum-299a11250/)
+[linkedin]: https://www.linkedin.com/in/kendrick-bynum-299a11250/
 
 <!--
 
