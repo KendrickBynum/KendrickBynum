@@ -1,5 +1,9 @@
 <h1>Hi, I'm Kendrick! <br/><a href="https://github.com/KendrickBynum">Student Programmer</a>, <a href="https://www.linkedin.com/in/kendrick-bynum-299a11250/"> Aspiring Cybersecurity Professional</a> </h1>
 
+## 📄 Resume
+
+[Download My Resume](./Kendrick_s_Resume.pdf)
+
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Full-Stack Web App</b>
