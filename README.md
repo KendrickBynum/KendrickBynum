@@ -7,7 +7,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Full-Stack Web App (JavaScript, React, AWS)</b>
-  - [WhatColor ColorBlind Assitence App](https://github.com/What-Color-SPU/What-Color)
+  - [WhatColor ColorBlind Assistance App](https://github.com/What-Color-SPU/What-Color)
   - Implemented AI to help users understand if colors are compatible or not
   - Created user accounts so users can create an account or sign into their account
 - <b>Python-Based Web Crawler (Python, networkx, requests and BeautifulSoup for HTTP requests and HTML parsing)</b>
