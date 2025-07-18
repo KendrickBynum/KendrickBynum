@@ -2,7 +2,7 @@
 
 ## 📄 Resume
 
-[Download My Resume](./Kendrick_s_Resume(2).pdf)
+[Download My Resume](https://github.com/KendrickBynum/KendrickBynum/blob/main/Kendrick_s_Resume%20(2).pdf)
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
