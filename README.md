@@ -4,6 +4,28 @@
 
 [Download My Resume](https://github.com/KendrickBynum/KendrickBynum/blob/main/Kendrick_s_Resume%20(2).pdf)
 
+---
+
+<h2>🛡️ Security Engineering Projects:</h2>
+
+- <b>SolarWinds Supply Chain Breach Analysis (Threat Modeling, IR Mapping, MITRE ATT&CK)</b>  
+  - [SolarWinds Breach Analysis](https://github.com/KendrickBynum/solarwinds-breach-analysis)  
+  - Studied the 2020 SolarWinds attack and outlined how I would prevent and detect similar breaches.  
+  - Mapped the incident to NIST's IR Framework and documented adversary TTPs.  
+  - Proposed architecture changes and detection strategies based on industry best practices.
+
+---
+
+<h2>🧪 SOC Analyst Projects:</h2>
+
+- <b>Malware Upload Detection & Response (Splunk + Catalyst)</b>  
+  - [Malware Upload Investigation](https://github.com/KendrickBynum/malware-upload-case)  
+  - Simulated the detection and response of a suspicious `.exe` upload using Splunk.  
+  - Investigated the incident using Catalyst and mapped findings to MITRE ATT&CK.  
+  - Documented all artifacts, queries, and remediation actions.
+
+---
+
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Full-Stack Web App (JavaScript, React, AWS)</b>
