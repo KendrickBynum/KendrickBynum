@@ -19,10 +19,16 @@
 <h2>🧪 SOC Analyst Projects:</h2>
 
 - <b>Malware Upload Detection & Response (Splunk + Catalyst)</b>  
-  - [Malware Upload Investigation](https://github.com/KendrickBynum/malware-upload-case)  
+  - [Malware Upload Investigation](https://github.com/KendrickBynum/Malware-Upload-Detection-Response-Splunk-Catalyst-)  
   - Simulated the detection and response of a suspicious `.exe` upload using Splunk.  
   - Investigated the incident using Catalyst and mapped findings to MITRE ATT&CK.  
   - Documented all artifacts, queries, and remediation actions.
+
+- <b>Splunk Capture the Flag Investigation (SIEM, Log Analysis, Threat Detection)</b>  
+  - [Splunk CTF Project](https://github.com/KendrickBynum/Splunk-CTF-Project)  
+  - Completed a structured CTF focused on identifying threats through Splunk dashboards and log queries.  
+  - Applied detection logic to find suspicious commands, persistence techniques, and malicious artifacts.  
+  - Demonstrated analytical workflow for a SOC analyst in a live incident simulation.
 
 ---
 
