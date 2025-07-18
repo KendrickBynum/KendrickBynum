@@ -9,7 +9,7 @@
 <h2>🛡️ Security Engineering Projects:</h2>
 
 - <b>SolarWinds Supply Chain Breach Analysis (Threat Modeling, IR Mapping, MITRE ATT&CK)</b>  
-  - [SolarWinds Breach Analysis](https://github.com/KendrickBynum/solarwinds-breach-analysis)  
+  - [SolarWinds Breach Analysis](https://github.com/KendrickBynum/SolarWinds-Supply-Chain-Breach-Analysis)  
   - Studied the 2020 SolarWinds attack and outlined how I would prevent and detect similar breaches.  
   - Mapped the incident to NIST's IR Framework and documented adversary TTPs.  
   - Proposed architecture changes and detection strategies based on industry best practices.
