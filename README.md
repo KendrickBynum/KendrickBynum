@@ -13,6 +13,13 @@
   - Studied the 2020 SolarWinds attack and outlined how I would prevent and detect similar breaches.  
   - Mapped the incident to NIST's IR Framework and documented adversary TTPs.  
   - Proposed architecture changes and detection strategies based on industry best practices.
+ 
+- <b>NGINX DoS Attack Mitigation Project (Python, Wireshark, NGINX)</b>
+  - [DoS Mitigation with NGINX and Wireshark](https://github.com/KendrickBynum/NGINX-DoS-Mitigation)
+  - Simulated a Slowloris DoS attack using Python to overwhelm an NGINX web server.
+  - Captured network traffic with Wireshark to observe before, during, and after attack phases.
+  - Hardened server configuration using NGINX rate limiting to mitigate the attack.
+  - Demonstrated proactive security engineering with real-world network defense techniques.
 
 ---
 
