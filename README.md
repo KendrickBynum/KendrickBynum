@@ -15,7 +15,7 @@
   - Proposed architecture changes and detection strategies based on industry best practices.
  
 - <b>NGINX DoS Attack Mitigation Project (Python, Wireshark, NGINX)</b>
-  - [DoS Mitigation with NGINX and Wireshark](https://github.com/KendrickBynum/NGINX-DoS-Mitigation)
+  - [DoS Mitigation with NGINX and Wireshark](https://github.com/KendrickBynum/DoS-Mitigation-with-NGINX-Traffic-Analysis-via-Wireshark)
   - Simulated a Slowloris DoS attack using Python to overwhelm an NGINX web server.
   - Captured network traffic with Wireshark to observe before, during, and after attack phases.
   - Hardened server configuration using NGINX rate limiting to mitigate the attack.
