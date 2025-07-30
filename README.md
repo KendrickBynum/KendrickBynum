@@ -38,7 +38,7 @@
   - Demonstrated analytical workflow for a SOC analyst in a live incident simulation.
 
 - <b>SolarWinds IOC Detection in Proxy Logs (Splunk + Threat Intelligence)</b>
-  - [SolarWinds IOC Detection](https://github.com/yourusername/solarwinds-ioc-detection)
+  - [SolarWinds IOC Detection](https://github.com/KendrickBynum/SolarWinds-IOC-Detection-in-Proxy-Logs-using-Splunk/blob/main/README.md).
   - Correlated known SolarWinds IOC IPs with proxy logs using Splunk.
   - Created SPL queries to detect communication with malicious IPs from compromised internal hosts.
   - Visualized suspicious activity with bar charts to highlight frequent contact with IOC endpoints.
